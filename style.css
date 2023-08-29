@@ -194,7 +194,7 @@ padding:17px 5px;
     font-family: poppins;
     font-weight: 300;
     font-size: 35px;
-    display:none;
+    display:none !important;
    
     padding-top: 10px;
  
