@@ -194,6 +194,7 @@ padding:17px 5px;
     font-family: poppins;
     font-weight: 300;
     font-size: 35px;
+    display:none;
    
     padding-top: 10px;
  
@@ -1006,7 +1007,7 @@ font-size: 45px;
         
     }
     .geonet h3{
-        padding-top: 15px;
+        display:block:        padding-top: 15px;
         font-size: 26px;
         font-weight: 300;
         font-family: poppins;
