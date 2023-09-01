@@ -349,6 +349,11 @@ padding:17px 5px;
 
    
 }
+.card img{
+    height: 700px;width: 706px;
+  position: static;
+
+}
 .containerr{
     display: flex;
     
@@ -363,7 +368,7 @@ padding:17px 5px;
     margin: 25px;
     border-radius: 10px;
     overflow: hidden;
-    box-shadow: 1px 1px 10px black;
+    
    
     
 }
@@ -1242,6 +1247,11 @@ font-size: 45px;
      
     
        
+    }
+    .card img{
+        height: 350px;width: 356px;
+        position: static;
+
     }
     .containerr{
         display: flex;
